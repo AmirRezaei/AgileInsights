@@ -1,2 +1,2 @@
 # AgileInsights
-AgileInsights is a project focused on generating insights from the Github Agile Team TAWOS database. 
+AgileInsights is a research project focused on generating insights from the Agile Team TAWOS database. It employs machine learning and data analysis techniques to identify patterns, trends, and areas of improvement within the agile process. AgileInsights provides valuable recommendations and suggestions to optimize team performance by increasing efficiency, and deliver better results.
